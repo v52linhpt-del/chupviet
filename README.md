@@ -5,7 +5,8 @@
 <p align="center">Chụp màn hình nhanh, chú thích gọn cho macOS — miễn phí.<br>
 Fast screenshots &amp; clean annotations for macOS — free.</p>
 
-<p align="center"><a href="https://github.com/v52linhpt-del/chupviet/releases/latest"><b>⬇︎ Tải bản mới nhất / Download latest</b></a></p>
+<p align="center"><a href="https://github.com/v52linhpt-del/chupviet/releases/latest/download/ChupViet.dmg"><b>⬇︎ Tải ChupViet / Download ChupViet</b></a><br>
+<sub><a href="https://github.com/v52linhpt-del/chupviet/releases">Mọi phiên bản / All versions</a></sub></p>
 
 ---
 
@@ -30,8 +31,8 @@ macOS 14 (Sonoma) trở lên · Mac chip Apple (M1…) hoặc Intel.
 
 ### Cài đặt
 
-1. Tải tệp **`ChupViet-x.y.z.dmg`** ở mục [Releases](https://github.com/v52linhpt-del/chupviet/releases/latest).
-2. Mở tệp `.dmg`, **kéo ChupViet vào thư mục Applications**.
+1. Tải **[ChupViet.dmg](https://github.com/v52linhpt-del/chupviet/releases/latest/download/ChupViet.dmg)** (luôn là bản mới nhất).
+2. Mở tệp `.dmg`, **kéo ChupViet vào ô Applications** bên cạnh. ⚠️ Đừng mở app ngay trong cửa sổ `.dmg`.
 3. **Lần đầu mở app**, macOS sẽ báo *"Apple không thể xác minh ChupViet…"* — vì ChupViet chưa đăng ký
    chữ ký của Apple (tốn phí hằng năm). Cách mở:
    - Bấm **Xong**, rồi vào **Cài đặt hệ thống › Quyền riêng tư & Bảo mật**, kéo xuống dưới, thấy dòng
@@ -92,8 +93,8 @@ macOS 14 (Sonoma) or later · Apple silicon or Intel Mac.
 
 ### Install
 
-1. Download **`ChupViet-x.y.z.dmg`** from [Releases](https://github.com/v52linhpt-del/chupviet/releases/latest).
-2. Open the `.dmg` and **drag ChupViet into Applications**.
+1. Download **[ChupViet.dmg](https://github.com/v52linhpt-del/chupviet/releases/latest/download/ChupViet.dmg)** (always the latest version).
+2. Open the `.dmg` and **drag ChupViet onto the Applications folder** next to it. ⚠️ Don't launch the app from inside the `.dmg` window.
 3. **On first launch** macOS says *"Apple could not verify ChupViet…"* because the app isn't notarized yet.
    Click **Done**, then go to **System Settings › Privacy & Security**, scroll down to *"ChupViet was
    blocked…"* and click **Open Anyway**.

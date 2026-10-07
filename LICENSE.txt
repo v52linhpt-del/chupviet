@@ -1,0 +1,26 @@
+ChupViet — Điều khoản sử dụng / Terms of Use
+Bản quyền / Copyright (c) 2026 LinhPham. Mọi quyền được bảo lưu / All rights reserved.
+
+TIẾNG VIỆT
+
+1. Bạn được tải về, cài đặt và sử dụng ChupViet MIỄN PHÍ, cho mục đích cá nhân hoặc công việc, trên số
+   lượng máy tuỳ ý.
+2. Bạn được chia sẻ đường dẫn tải chính thức (trang Releases của repo này) cho người khác.
+3. Bạn KHÔNG được: sửa đổi, dịch ngược, tháo rời phần mềm; bán, cho thuê; phát hành lại (kể cả bản đã
+   sửa hoặc đóng gói kèm phần mềm khác) khi chưa có sự đồng ý bằng văn bản của tác giả.
+4. Phần mềm được cung cấp "NGUYÊN TRẠNG", không có bất kỳ bảo đảm nào. Tác giả không chịu trách nhiệm cho
+   mọi thiệt hại phát sinh từ việc sử dụng phần mềm.
+5. ChupViet chạy hoàn toàn trên máy người dùng và không thu thập hay gửi dữ liệu nào ra ngoài.
+
+ENGLISH
+
+1. You may download, install and use ChupViet FREE OF CHARGE, for personal or business purposes, on any
+   number of computers.
+2. You may share the official download link (this repository's Releases page) with others.
+3. You may NOT modify, reverse engineer or disassemble the software; sell or rent it; or redistribute it
+   (including modified versions or bundles with other software) without the author's written permission.
+4. The software is provided "AS IS", without warranty of any kind. The author is not liable for any
+   damages arising from its use.
+5. ChupViet runs entirely on the user's computer and does not collect or transmit any data.
+
+If the Vietnamese and English versions differ, the Vietnamese version prevails.

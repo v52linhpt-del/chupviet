@@ -33,7 +33,7 @@ Fast screenshots &amp; clean annotations for macOS — free.</p>
 - **Chèn ảnh** — dán, kéo thả hoặc chọn tệp, kéo góc đổi cỡ
 - **Chia sẻ** — AirDrop, Tin nhắn, Mail… ngay từ ô xem nhanh
 - **Lưu được để sửa lại** — mở lại ảnh đã lưu, các chú thích vẫn sửa / xoá được
-- **Phím tắt** đổi được tuỳ ý · giao diện tiếng Việt và tiếng Anh
+- **Phím tắt** đổi được tuỳ ý · giao diện tiếng Việt và tiếng Anh (đổi trong Cài đặt › Chung › Ngôn ngữ)
 
 ### Yêu cầu
 
@@ -113,7 +113,7 @@ Xem [LICENSE.txt](LICENSE.txt).
 - **Insert images** — paste, drag in or pick a file, resize by the corners
 - **Share** — AirDrop, Messages, Mail… straight from the overlay
 - **Re-editable saves** — reopen a saved screenshot and your annotations are still editable
-- **Custom shortcuts** · Vietnamese & English interface
+- **Custom shortcuts** · Vietnamese & English interface (switch in Settings › General › Language)
 
 ### Requirements
 

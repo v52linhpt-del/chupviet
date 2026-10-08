@@ -55,6 +55,9 @@ macOS 14 (Sonoma) trở lên · Mac chip Apple (M1…) hoặc Intel.
 
 ChupViet chạy ở **thanh menu** (biểu tượng khung ngắm góc trên bên phải), không có biểu tượng ở Dock.
 
+**Ảnh lưu ở đâu?** Thư mục **ChupViet trên Màn hình nền** (đổi được trong Cài đặt › Chung). Lần lưu đầu tiên
+macOS có thể hỏi *"ChupViet muốn truy cập tệp trong thư mục Màn hình nền"* — bấm **Cho phép**.
+
 ### Cập nhật lên bản mới
 
 Tải bản mới, kéo đè vào Applications. ⚠️ Sau mỗi lần cập nhật, macOS có thể coi là app mới và đòi
@@ -130,6 +133,9 @@ macOS 14 (Sonoma) or later · Apple silicon or Intel Mac.
    Security › Accessibility**. Without it you can still scroll by hand.
 
 ChupViet lives in the **menu bar** (viewfinder icon, top right) — no Dock icon.
+
+**Where are screenshots saved?** In a **ChupViet folder on your Desktop** (change it in Settings › General). The
+first time, macOS may ask to let ChupViet access your Desktop folder — click **Allow**.
 
 ### Updating
 

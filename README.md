@@ -6,7 +6,7 @@
 Fast screenshots &amp; clean annotations for macOS — free.</p>
 
 <p align="center"><a href="https://github.com/v52linhpt-del/chupviet/releases/latest/download/ChupViet.dmg"><b>⬇︎ Tải ChupViet / Download ChupViet</b></a><br>
-<sub><a href="https://github.com/v52linhpt-del/chupviet/releases">Mọi phiên bản / All versions</a></sub></p>
+<sub>Luôn là bản mới nhất / Always the latest version</sub></p>
 
 ---
 
@@ -26,6 +26,12 @@ Fast screenshots &amp; clean annotations for macOS — free.</p>
 - **Ô xem nhanh** sau khi chụp — Chép · Lưu · Sửa · kéo thả thẳng vào Slack, Zalo, Finder…
 - **Hai màn hình** (laptop + màn trình chiếu): ô xem nhanh **đi theo chuột** sang màn bạn đang dùng
 - **Trình sửa ảnh** — cắt, mũi tên, chữ, khung, hình tròn, bút, dạ quang, làm mờ, pixel hoá, đánh số 1-2-3
+- **Tô sáng** — làm nổi một vùng, phần còn lại tối đi
+- **Tự che thông tin nhạy cảm** — một nút bấm là che số điện thoại, email, số tài khoản, số căn cước, số thẻ
+- **Dịch chữ trong ảnh** — Anh ⇄ Việt ngay trên máy, đặt bản dịch đè lên ảnh được (macOS 15 trở lên)
+- **Nền trang trí** — nền chuyển sắc / một màu, lề, bo góc, đổ bóng, khung 1:1 · 4:3 · 16:9 cho bài đăng, slide
+- **Chèn ảnh** — dán, kéo thả hoặc chọn tệp, kéo góc đổi cỡ
+- **Chia sẻ** — AirDrop, Tin nhắn, Mail… ngay từ ô xem nhanh
 - **Lưu được để sửa lại** — mở lại ảnh đã lưu, các chú thích vẫn sửa / xoá được
 - **Phím tắt** đổi được tuỳ ý · giao diện tiếng Việt và tiếng Anh
 
@@ -97,6 +103,12 @@ Xem [LICENSE.txt](LICENSE.txt).
 - **Quick access overlay** — Copy · Save · Annotate · drag straight into any app
 - **Multiple displays**: the overlay **follows your mouse** to the display you're using
 - **Annotation editor** — crop, arrow, text, rectangle, ellipse, pen, highlighter, blur, pixelate, step counter
+- **Spotlight** — highlight an area, dim the rest
+- **Auto-redact** — one click hides phone numbers, emails, account / ID / card numbers
+- **Translate text in images** — on-device, and place the translation over the image (macOS 15+)
+- **Backgrounds** — gradient / solid backgrounds, padding, rounded corners, shadow, 1:1 · 4:3 · 16:9 frames
+- **Insert images** — paste, drag in or pick a file, resize by the corners
+- **Share** — AirDrop, Messages, Mail… straight from the overlay
 - **Re-editable saves** — reopen a saved screenshot and your annotations are still editable
 - **Custom shortcuts** · Vietnamese & English interface
 

@@ -19,6 +19,10 @@ Fast screenshots &amp; clean annotations for macOS — free.</p>
 - **Chụp vùng chọn** (⌥⇧4) — màn hình đứng yên khi chọn, kính lúp chọn chính xác từng pixel
 - **Chụp cửa sổ** (⌥⇧5) — kèm hoặc bỏ bóng đổ
 - **Chụp toàn màn hình** (⌥⇧3)
+- **Chụp cuộn** (⌥⇧6) — chụp cả trang dài hơn màn hình: chọn khung, bấm **Bắt đầu** rồi cuộn (hoặc **⬇** để app tự cuộn tới cuối trang), xem trước ảnh ghép ngay bên cạnh, bấm Xong
+- **Nhận dạng chữ** (⌥⇧2) — quét vùng có chữ, chép ngay vào bộ nhớ tạm (có tiếng Việt); đọc cả mã QR
+- **Ghim ảnh** nổi trên mọi cửa sổ — kéo, đổi cỡ, chỉnh độ trong suốt, khoá bấm xuyên qua
+- **Hẹn giờ chụp** 3 / 5 / 10 giây · **Lịch sử chụp** · **Ẩn biểu tượng màn hình nền** khi chụp
 - **Ô xem nhanh** sau khi chụp — Chép · Lưu · Sửa · kéo thả thẳng vào Slack, Zalo, Finder…
 - **Hai màn hình** (laptop + màn trình chiếu): ô xem nhanh **đi theo chuột** sang màn bạn đang dùng
 - **Trình sửa ảnh** — cắt, mũi tên, chữ, khung, hình tròn, bút, dạ quang, làm mờ, pixel hoá, đánh số 1-2-3
@@ -40,6 +44,9 @@ macOS 14 (Sonoma) trở lên · Mac chip Apple (M1…) hoặc Intel.
 4. **Cấp quyền Ghi màn hình** khi app hỏi: **Cài đặt hệ thống › Quyền riêng tư & Bảo mật › Ghi màn hình &
    âm thanh hệ thống** › bật **ChupViet** › thoát app và mở lại.
 
+5. *(Tuỳ chọn)* Muốn dùng **tự cuộn** khi chụp cuộn: bật ChupViet ở **Cài đặt hệ thống › Quyền riêng tư &
+   Bảo mật › Trợ năng**. Không bật thì vẫn chụp cuộn được bằng cách tự cuộn chuột.
+
 ChupViet chạy ở **thanh menu** (biểu tượng khung ngắm góc trên bên phải), không có biểu tượng ở Dock.
 
 ### Cập nhật lên bản mới
@@ -54,6 +61,8 @@ Tải bản mới, kéo đè vào Applications. ⚠️ Sau mỗi lần cập nh�
 | Chụp vùng chọn | ⌥⇧4 (giữ Option + Shift, bấm 4) |
 | Chụp cửa sổ | ⌥⇧5 |
 | Chụp toàn màn hình | ⌥⇧3 |
+| Chụp cuộn | ⌥⇧6 |
+| Nhận dạng chữ (OCR) | ⌥⇧2 |
 
 Khi chọn vùng: **Shift** = khung vuông · giữ **Space** khi kéo = dời vùng · **Space** trước khi kéo = chọn
 cửa sổ · **Esc** = huỷ. Trong trình sửa: **A** mũi tên · **T** chữ · **R** khung · **B** làm mờ ·
@@ -81,6 +90,10 @@ Xem [LICENSE.txt](LICENSE.txt).
 - **Capture area** (⌥⇧4) — frozen screen while selecting, pixel-precise magnifier
 - **Capture window** (⌥⇧5) — with or without shadow
 - **Capture fullscreen** (⌥⇧3)
+- **Scrolling capture** (⌥⇧6) — capture pages longer than the screen: select, click **Start** and scroll (or **⬇** to auto-scroll to the end), with a live preview, then Done
+- **Capture text (OCR)** (⌥⇧2) — copy text from any area (Vietnamese supported); reads QR codes too
+- **Pin screenshots** above all windows — move, resize, set opacity, click-through lock
+- **Self-timer** 3 / 5 / 10 s · **Capture history** · **Hide desktop icons** in captures
 - **Quick access overlay** — Copy · Save · Annotate · drag straight into any app
 - **Multiple displays**: the overlay **follows your mouse** to the display you're using
 - **Annotation editor** — crop, arrow, text, rectangle, ellipse, pen, highlighter, blur, pixelate, step counter
@@ -100,6 +113,9 @@ macOS 14 (Sonoma) or later · Apple silicon or Intel Mac.
    blocked…"* and click **Open Anyway**.
 4. **Grant Screen Recording** when asked: **System Settings › Privacy & Security › Screen & System Audio
    Recording** › turn on **ChupViet** › quit and reopen the app.
+
+5. *(Optional)* To use **auto-scroll** in scrolling capture, turn on ChupViet in **System Settings › Privacy &
+   Security › Accessibility**. Without it you can still scroll by hand.
 
 ChupViet lives in the **menu bar** (viewfinder icon, top right) — no Dock icon.
 

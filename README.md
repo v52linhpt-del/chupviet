@@ -2,8 +2,8 @@
 
 <h1 align="center">ChupViet</h1>
 
-<p align="center">Chụp màn hình nhanh, chú thích gọn cho macOS — miễn phí.<br>
-Fast screenshots &amp; clean annotations for macOS — free.</p>
+<p align="center">Chụp màn hình, quay video màn hình, chú thích gọn cho macOS — miễn phí.<br>
+Screenshots, screen recording &amp; clean annotations for macOS — free.</p>
 
 <p align="center"><a href="https://github.com/v52linhpt-del/chupviet/releases/latest/download/ChupViet.dmg"><b>⬇︎ Tải ChupViet / Download ChupViet</b></a><br>
 <sub>Luôn là bản mới nhất / Always the latest version</sub></p>
@@ -20,9 +20,14 @@ Fast screenshots &amp; clean annotations for macOS — free.</p>
 - **Chụp cửa sổ** (⌥⇧5) — kèm hoặc bỏ bóng đổ
 - **Chụp toàn màn hình** (⌥⇧3)
 - **Chụp cuộn** (⌥⇧6) — chụp cả trang dài hơn màn hình: chọn khung, bấm **Bắt đầu** rồi cuộn (hoặc **⬇** để app tự cuộn tới cuối trang), xem trước ảnh ghép ngay bên cạnh, bấm Xong
+- **Quay màn hình** (⌥⇧7) — quay vùng chọn, cửa sổ hoặc toàn màn hình, kèm **giọng nói (micrô)** và **âm thanh máy**,
+  **webcam** dạng bong bóng, tạm dừng / tiếp tục. Dừng quay là có ô xem nhanh ngay, video MP4 lưu ở nền
+- **Trình sửa video** — tách và xoá đoạn không dùng, cắt đầu / cuối, chỉnh âm lượng từng rãnh, hiện cú bấm chuột và
+  phím tắt, tự phóng to theo cú bấm, nền trang trí (cả khung 9:16 cho Reels / TikTok), chèn chữ / biểu tượng / mũi tên,
+  **tự che thông tin nhạy cảm** (cả API key, mật khẩu), **phụ đề tiếng Việt tự động** ngay trên máy, xuất MP4 / GIF / SRT
 - **Nhận dạng chữ** (⌥⇧2) — quét vùng có chữ, chép ngay vào bộ nhớ tạm (có tiếng Việt); đọc cả mã QR
 - **Ghim ảnh** nổi trên mọi cửa sổ — kéo, đổi cỡ, chỉnh độ trong suốt, khoá bấm xuyên qua
-- **Hẹn giờ chụp** 3 / 5 / 10 giây · **Lịch sử chụp** · **Ẩn biểu tượng màn hình nền** khi chụp
+- **Hẹn giờ chụp** 3 / 5 / 10 giây · **Lịch sử chụp** (cả ảnh và video) · **Ẩn biểu tượng màn hình nền** khi chụp
 - **Ô xem nhanh** sau khi chụp — Chép · Lưu · Sửa · kéo thả thẳng vào Slack, Zalo, Finder…
 - **Hai màn hình** (laptop + màn trình chiếu): ô xem nhanh **đi theo chuột** sang màn bạn đang dùng
 - **Trình sửa ảnh** — cắt (kéo góc hoặc giữa cạnh), mũi tên, chữ (xoay được), khung, hình tròn, bút, dạ quang, làm mờ, pixel hoá, đánh số 1-2-3
@@ -51,12 +56,14 @@ macOS 14 (Sonoma) trở lên · Mac chip Apple (M1…) hoặc Intel.
 4. **Cấp quyền Ghi màn hình** khi app hỏi: **Cài đặt hệ thống › Quyền riêng tư & Bảo mật › Ghi màn hình &
    âm thanh hệ thống** › bật **ChupViet** › thoát app và mở lại.
 
-5. *(Tuỳ chọn)* Muốn dùng **tự cuộn** khi chụp cuộn: bật ChupViet ở **Cài đặt hệ thống › Quyền riêng tư &
-   Bảo mật › Trợ năng**. Không bật thì vẫn chụp cuộn được bằng cách tự cuộn chuột.
+5. *(Tuỳ chọn)* Muốn dùng **tự cuộn** khi chụp cuộn, hoặc **hiện phím tắt** trong video quay màn hình: bật ChupViet ở
+   **Cài đặt hệ thống › Quyền riêng tư & Bảo mật › Trợ năng**. Không bật thì vẫn chụp cuộn được bằng cách tự cuộn chuột.
+6. *(Khi quay màn hình)* Lần đầu bật **micrô**, **camera** hoặc tạo **phụ đề**, ChupViet giải thích ngắn rồi macOS hỏi quyền —
+   bấm **Cho phép**. Âm thanh, hình và việc nhận dạng giọng nói đều ở lại trên máy.
 
 ChupViet chạy ở **thanh menu** (biểu tượng khung ngắm góc trên bên phải), không có biểu tượng ở Dock.
 
-**Ảnh lưu ở đâu?** Thư mục **ChupViet trên Màn hình nền** (đổi được trong Cài đặt › Chung). Lần lưu đầu tiên
+**Ảnh và video lưu ở đâu?** Thư mục **ChupViet trên Màn hình nền** (đổi được trong Cài đặt › Chung và Cài đặt › Quay màn hình). Lần lưu đầu tiên
 macOS có thể hỏi *"ChupViet muốn truy cập tệp trong thư mục Màn hình nền"* — bấm **Cho phép**.
 
 ### Cập nhật lên bản mới
@@ -73,6 +80,7 @@ Tải bản mới, kéo đè vào Applications. ⚠️ Sau mỗi lần cập nh�
 | Chụp toàn màn hình | ⌥⇧3 |
 | Chụp cuộn | ⌥⇧6 |
 | Nhận dạng chữ (OCR) | ⌥⇧2 |
+| Quay màn hình (bấm lần nữa để dừng) | ⌥⇧7 |
 
 Khi chọn vùng: **Shift** = khung vuông · giữ **Space** khi kéo = dời vùng · **Space** trước khi kéo = chọn
 cửa sổ · **Esc** = huỷ. Trong trình sửa: **A** mũi tên · **T** chữ · **R** khung · **B** làm mờ ·
@@ -80,7 +88,8 @@ cửa sổ · **Esc** = huỷ. Trong trình sửa: **A** mũi tên · **T** ch�
 
 ### Quyền riêng tư
 
-ChupViet chạy **hoàn toàn trên máy bạn**: không cần mạng, không gửi ảnh hay dữ liệu nào đi đâu.
+ChupViet chạy **hoàn toàn trên máy bạn**: không cần mạng, không gửi ảnh, video, âm thanh hay dữ liệu nào đi đâu —
+kể cả phụ đề tự động (nhận dạng giọng nói ngay trên máy).
 
 ### Góp ý, báo lỗi
 
@@ -101,9 +110,14 @@ Xem [LICENSE.txt](LICENSE.txt).
 - **Capture window** (⌥⇧5) — with or without shadow
 - **Capture fullscreen** (⌥⇧3)
 - **Scrolling capture** (⌥⇧6) — capture pages longer than the screen: select, click **Start** and scroll (or **⬇** to auto-scroll to the end), with a live preview, then Done
+- **Record screen** (⌥⇧7) — record an area, a window or the full screen with your **voice (microphone)** and
+  **system audio**, a **webcam** bubble, pause / resume. The quick overlay shows up right away; the MP4 saves in the background
+- **Video editor** — split and delete unwanted parts, trim, per-track volume, mouse clicks and keystrokes, auto zoom on
+  clicks, backgrounds (including 9:16 for Reels / TikTok), text / stickers / arrows, **auto-redact** (API keys and passwords
+  too), **automatic Vietnamese captions** on-device, export MP4 / GIF / SRT
 - **Capture text (OCR)** (⌥⇧2) — copy text from any area (Vietnamese supported); reads QR codes too
 - **Pin screenshots** above all windows — move, resize, set opacity, click-through lock
-- **Self-timer** 3 / 5 / 10 s · **Capture history** · **Hide desktop icons** in captures
+- **Self-timer** 3 / 5 / 10 s · **Capture history** (images and videos) · **Hide desktop icons** in captures
 - **Quick access overlay** — Copy · Save · Annotate · drag straight into any app
 - **Multiple displays**: the overlay **follows your mouse** to the display you're using
 - **Annotation editor** — crop (drag corners or edges), arrow, text (rotatable), rectangle, ellipse, pen, highlighter, blur, pixelate, step counter
@@ -131,12 +145,14 @@ macOS 14 (Sonoma) or later · Apple silicon or Intel Mac.
 4. **Grant Screen Recording** when asked: **System Settings › Privacy & Security › Screen & System Audio
    Recording** › turn on **ChupViet** › quit and reopen the app.
 
-5. *(Optional)* To use **auto-scroll** in scrolling capture, turn on ChupViet in **System Settings › Privacy &
-   Security › Accessibility**. Without it you can still scroll by hand.
+5. *(Optional)* To use **auto-scroll** in scrolling capture, or to **show keystrokes** in screen recordings, turn on
+   ChupViet in **System Settings › Privacy & Security › Accessibility**. Without it you can still scroll by hand.
+6. *(Screen recording)* The first time you turn on the **microphone**, **camera** or make **captions**, ChupViet explains
+   why and macOS asks for permission — click **Allow**. Audio, video and speech recognition all stay on your Mac.
 
 ChupViet lives in the **menu bar** (viewfinder icon, top right) — no Dock icon.
 
-**Where are screenshots saved?** In a **ChupViet folder on your Desktop** (change it in Settings › General). The
+**Where are screenshots and videos saved?** In a **ChupViet folder on your Desktop** (change it in Settings › General and Settings › Recording). The
 first time, macOS may ask to let ChupViet access your Desktop folder — click **Allow**.
 
 ### Updating
@@ -147,7 +163,8 @@ the app and grant it again.
 
 ### Privacy
 
-ChupViet runs **entirely on your Mac**: no network access, no images or data ever leave your computer.
+ChupViet runs **entirely on your Mac**: no network access, no images, video, audio or data ever leave your computer —
+automatic captions included (speech is recognized on-device).
 
 ### Feedback
 
